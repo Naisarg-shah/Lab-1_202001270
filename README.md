@@ -4,12 +4,19 @@
 Functional Requirements:
 
    i) A user should have an option to login with either username or email and password to show that he/she is a valid user of the LIS.
+   
   ii) A user should be able to search for books with any one or a combination of book name, author, publisher, publication number, volume, subject.
+  
  iii) System should allow user to request for a book (if not already available in the library).
+ 
   iv) The interface should allow a user to borrow and return a book with ease.
+  
    v) The interface should allow a user to extend the date of borrowing for a book if there is no other booking for that particular book.
+   
   vi) The interface should allow an administrator of the system to add a book to the system and make it available for all the users.
+  
  vii) The interface should also allow an administrator to remove a book from the system in the scenario that book is not longer available in the library.
+ 
 viii) The system should be deployed to work on institute LAN only.
 
 
