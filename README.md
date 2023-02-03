@@ -23,8 +23,13 @@ viii) The system should be deployed to work on institute LAN only.
 Non-functional requirements:
 
   i) Security: System should have some kind of encryption method to ensure confidential information is not stored in plain text form.
+  
  ii) Scalibility: System should be scalable to ensure smooth running when the number of users increase in the future.
+ 
 iii) Access Privilage: The sytem should have a way to assign different roles and privileges to users like administrator, IT etc.
+
  iv) Speed: The system should have good performance and should produce responses within reasonable amount of time.
+ 
   v) Ease of use: The system should be easy to use for users.
+  
  vi) Reliable: The system should be reliable like now allowing a user to borrow a book when it's already being borrowed by some other user, and should work accurately  with searching, authentication etc. by updating the database by synchronizing between database and application.
