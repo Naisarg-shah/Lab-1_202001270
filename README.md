@@ -35,7 +35,7 @@ iii) Access Privilage: The sytem should have a way to assign different roles and
  vi) Reliable: The system should be reliable like now allowing a user to borrow a book when it's already being borrowed by some other user, and should work accurately  with searching, authentication etc. by updating the database by synchronizing between database and application.
 
 
-#Q2) Population Porblem Set
+# Q2) Population Porblem Set
 
 **A) Scope:**
 
