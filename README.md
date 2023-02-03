@@ -1,4 +1,4 @@
-# Lab1_202001270
+# Lab-1_202001270
 
 # Library Information System (LIS)
 Functional Requirements:
