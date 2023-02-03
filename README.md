@@ -20,7 +20,7 @@
 viii) The system should be deployed to work on institute LAN only.
 
 
-Non-functional requirements:
+**Non-functional requirements:**
 
   i) Security: System should have some kind of encryption method to ensure confidential information is not stored in plain text form.
   
@@ -47,15 +47,21 @@ Approximately 5% of the total world population i.e. a stagerring 466 million peo
 Requiremnts for users with hearing disability:
 
   i) To be able to login to their account.
+  
  ii) To be able to check their past tests data.
+ 
 iii) To be able to track the progress of the ongoing treatment if any.
+
  iv) To be able to share his test data with his doctor.
+ 
   v) To be able to turn on road crossing mode where he would get alert signals if a car is honking nearby.
+  
  vi) To be able to get alert signal if a baby is crying nearby.
  
 Requirements for doctors:
 
   i) To be able to track the data of their patient.
+  
  ii) To be able to notify his patient about further treatment process and tests to be perfomrmed.
 
 
