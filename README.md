@@ -1,7 +1,7 @@
 # Lab-1_202001270
 
 # Q1) Library Information System (LIS)
-**Functional Requirements:**
+**A) Functional Requirements:**
 
    i) A user should have an option to login with either username or email and password to show that he/she is a valid user of the LIS.
    
@@ -20,7 +20,7 @@
 viii) The system should be deployed to work on institute LAN only.
 
 
-**Non-functional requirements:**
+**B) Non-functional requirements:**
 
   i) Security: System should have some kind of encryption method to ensure confidential information is not stored in plain text form.
   
