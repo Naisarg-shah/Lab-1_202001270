@@ -1,6 +1,6 @@
 # Lab-1_202001270
 
-# Library Information System (LIS)
+# Q1) Library Information System (LIS)
 Functional Requirements:
 
    i) A user should have an option to login with either username or email and password to show that he/she is a valid user of the LIS.
